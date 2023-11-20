@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matosovaolga
 - 👀 I’m interested in frontend work and projects on React or Angular
-- 🌱 I’m currently learning Next.js
+- 🌱 I’m currently learning Node.js
 
 
 <!---
